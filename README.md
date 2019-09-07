@@ -1,6 +1,6 @@
 # Banking Fraud Prevention using Graph Data Models
 
-This project was used in HSBC India's first of its kind hackathon. The hackathon had around 300 participants and this project emerged as one of the winners. 
+This project was used in HSBC India's first of its kind hackathon. The 48 hour hackathon had around 300 participants and this project emerged as one of the winners. 
 
 ## Idea
 
@@ -12,7 +12,10 @@ Banking Fraud occurs in many ways, some use cases are included below -
 
 While these are carried out in extraordinarily different ways by criminals, we believe that patterns exist in most of them. These patterns may not be visible when data is stored in a relational rather linear database , but can be captured when data is stored differently. 
 
-Thus we want to create a knowledge graph , that focusses on the customers relationships and activities rather than just storing it as another record. This knowledge graph in turn would help match patterns of already existing frauds , thus allowing the bank to take better precautionary measures.
+Thus we want to create a knowledge graph , that focusses on the customers relationships and activities rather than just storing it as another record. This knowledge graph in turn would help match patterns of already existing frauds , thus allowing the bank to take better precautionary measures. We attempt to use various graph analytics methodologies to look for patterns
+
+#### Graph analytics methodologies
+![](images/graphpatterns.png)
 
 Here's what a graph in the banking world looks like -
 ![](images/graph.png)
@@ -26,6 +29,11 @@ Here's what a graph in the banking world looks like -
 -   Flask : Microframework in Python used as a controller in our web application.
 -   MAMP : Server used in order to host our Python application.
 
+## Architecture
+![](images/Architecture.png)
+
+## Final Look at the application
+![](images/app.png)
 
 ## Further problems to address
 
