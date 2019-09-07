@@ -42,4 +42,4 @@ A meter tells how much the target customer's behavior matches to that of the fra
 
 ## Further problems to address
 
-The major problem that arises with such issues is that of scale. There is a high chance that this recommendation engine would generate false alerts. Further research must incorporate a mechanism to narrow down our search space , and use Machine Learning to better see which patterns in the graphs must be taken seriously. 
+The major problem that arises with such issues is that of scale. There is a high chance that this recommendation engine would generate **false alerts**. Further research must incorporate a mechanism to narrow down our search space , and use Machine Learning techniques like **Graphical Convulutional Networks** to better see which patterns in the graphs must be taken seriously. 
