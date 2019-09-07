@@ -1,6 +1,6 @@
 # Banking Fraud Prevention using Graph Data Models
 
-This project was used in HSBC India's first of its kind hackathon. The hackathon comprised around 300 participants and this project emerged as one of the winners. 
+This project was used in HSBC India's first of its kind hackathon. The hackathon had around 300 participants and this project emerged as one of the winners. 
 
 ## Idea
 
@@ -15,7 +15,7 @@ While these are carried out in extraordinarily different ways by criminals, we b
 Thus we want to create a knowledge graph , that focusses on the customers relationships and activities rather than just storing it as another record. This knowledge graph in turn would help match patterns of already existing frauds , thus allowing the bank to take better precautionary measures.
 
 Here's what a graph in the banking world looks like -
-![](images/akash.png)
+![](images/graph.png)
 
 
 ## Technologies used
