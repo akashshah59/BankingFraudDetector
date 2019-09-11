@@ -1,6 +1,6 @@
 from flask import Flask,jsonify,request
 from flask_cors import CORS
-from graph import get_paths,getCustomers,getTargets,getAll
+from path_finder import get_paths,getCustomers,getTargets,getAll
 
 app = Flask(__name__)
 CORS(app)
